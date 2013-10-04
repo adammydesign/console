@@ -1,0 +1,18 @@
+$("#event_image").live('change',function(){}) 
+// photoimg is the ID name of INPUT FILE tag and 
+
+$('#imageform').ajaxForm()
+//imageform is the ID name of FORM. While changing INPUT it calls FORM submit without refreshing page using ajaxForm() method.  
+$(document).ready(function()
+  {
+    $('#event_image').live('change', function()
+    {
+      $("#preview").html('');
+      $("#preview").html('<img src="../img/loader.gif" alt="Uploading...." style="margin-top: 50px;"/> ');
+      $("#imageform").ajaxForm(
+      {
+        target: '#preview'
+      }).submit();
+    });
+  });
+  

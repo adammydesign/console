@@ -1,0 +1,33 @@
+[23-Sep-2013 06:19:44 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/mydesign/public_html/events/index.php on line 143
+[23-Sep-2013 06:20:52 America/New_York] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mydesign/public_html/events/index.php on line 157
+[23-Sep-2013 06:25:42 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDWHILE in /home/mydesign/public_html/events/index.php on line 155
+[23-Sep-2013 06:25:58 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDWHILE in /home/mydesign/public_html/events/index.php on line 155
+[23-Sep-2013 06:26:34 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDWHILE in /home/mydesign/public_html/events/index.php on line 157
+[23-Sep-2013 06:28:29 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mydesign/public_html/events/index.php on line 140
+[23-Sep-2013 06:35:59 America/New_York] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/mydesign/public_html/events/index.php on line 13
+[23-Sep-2013 07:08:39 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mydesign/public_html/events/index.php on line 153
+[23-Sep-2013 14:30:24 America/New_York] PHP Parse error:  syntax error, unexpected T_DNUMBER in /home/mydesign/public_html/events/ajaxupload.php on line 23
+[23-Sep-2013 14:31:02 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/mydesign/public_html/events/ajaxupload.php on line 23
+[23-Sep-2013 16:03:39 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/mydesign/public_html/events/ajaxupload.php on line 36
+[24-Sep-2013 06:19:49 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO in /home/mydesign/public_html/events/index.php on line 64
+[24-Sep-2013 15:46:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/mydesign/public_html/events/edit.php on line 18
+[25-Sep-2013 05:02:56 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/mydesign/public_html/events/ajaxupload.php on line 74
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 311
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 312
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 313
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 311
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 312
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 313
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 311
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 312
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 313
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 311
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 312
+[26-Sep-2013 11:53:59 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, integer given in /home/mydesign/public_html/events/create.php on line 313
+[26-Sep-2013 16:22:22 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mydesign/public_html/events/create_valid.php on line 23
+[26-Sep-2013 16:22:22 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydesign/public_html/events/create_valid.php:23) in /home/mydesign/public_html/events/create_valid.php on line 47
+[26-Sep-2013 16:23:44 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mydesign/public_html/events/create_valid.php on line 23
+[26-Sep-2013 16:33:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mydesign/public_html/events/create_valid.php on line 25
+[26-Sep-2013 16:33:46 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydesign/public_html/events/create_valid.php:25) in /home/mydesign/public_html/events/create_valid.php on line 50
+[27-Sep-2013 06:12:18 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/mydesign/public_html/events/create_valid.php on line 21
+[27-Sep-2013 06:17:42 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/mydesign/public_html/events/create_valid.php on line 23

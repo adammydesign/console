@@ -1,0 +1,10 @@
+[20-Sep-2013 21:31:21 America/New_York] PHP Warning:  mysql() expects at least 2 parameters, 1 given in /home/mydesign/public_html/users/create_valid.php on line 85
+[20-Sep-2013 21:31:21 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydesign/public_html/users/create_valid.php:85) in /home/mydesign/public_html/users/create_valid.php on line 88
+[20-Sep-2013 21:53:13 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/mydesign/public_html/users/index.php on line 136
+[21-Sep-2013 14:24:57 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/mydesign/public_html/users/details.php on line 286
+[22-Sep-2013 11:40:26 America/New_York] PHP Fatal error:  Call to a member function getWidth() on a non-object in /home/mydesign/public_html/include/functions.php on line 3
+[22-Sep-2013 11:44:00 America/New_York] PHP Fatal error:  Call to a member function getWidth() on a non-object in /home/mydesign/public_html/include/functions.php on line 3
+[22-Sep-2013 11:44:24 America/New_York] PHP Fatal error:  Call to a member function getWidth() on a non-object in /home/mydesign/public_html/include/functions.php on line 3
+[22-Sep-2013 12:41:31 America/New_York] PHP Fatal error:  Unsupported operand types in /home/mydesign/public_html/users/edit.php on line 17
+[22-Sep-2013 13:07:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mydesign/public_html/users/details.php on line 18
+[22-Sep-2013 14:17:01 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mydesign/public_html/users/edit_valid.php on line 82

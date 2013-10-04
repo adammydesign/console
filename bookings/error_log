@@ -1,0 +1,29 @@
+[03-Oct-2013 16:54:18 America/New_York] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/mydesign/public_html/bookings/booking.php on line 160
+[03-Oct-2013 17:07:44 America/New_York] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/mydesign/public_html/bookings/booking.php on line 160
+[03-Oct-2013 17:08:56 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 108
+[03-Oct-2013 17:12:14 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 108
+[03-Oct-2013 17:12:16 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 108
+[03-Oct-2013 17:12:20 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 108
+[03-Oct-2013 17:12:32 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 108
+[03-Oct-2013 17:13:08 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 108
+[03-Oct-2013 17:14:15 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 107
+[03-Oct-2013 17:14:16 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 107
+[03-Oct-2013 17:14:17 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 107
+[03-Oct-2013 17:15:22 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 107
+[03-Oct-2013 17:15:23 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 107
+[03-Oct-2013 17:15:31 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 107
+[03-Oct-2013 17:15:49 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 110
+[03-Oct-2013 17:19:06 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mydesign/public_html/bookings/booking.php on line 110
+[03-Oct-2013 20:06:59 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DatePeriod::__construct() [<a href='dateperiod.--construct'>dateperiod.--construct</a>]: This constructor accepts either (DateTime, DateInterval, int) OR (DateTime, DateInterval, DateTime) OR (string) as arguments.' in /home/mydesign/public_html/bookings/booking.php:143
+Stack trace:
+#0 /home/mydesign/public_html/bookings/booking.php(143): DatePeriod->__construct('2013-10-21', Object(DateInterval), '2013-10-24')
+#1 {main}
+  thrown in /home/mydesign/public_html/bookings/booking.php on line 143
+[03-Oct-2013 20:08:12 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string ($start_date) at position 0 ($): Unexpected character' in /home/mydesign/public_html/bookings/booking.php:140
+Stack trace:
+#0 /home/mydesign/public_html/bookings/booking.php(140): DateTime->__construct('$start_date')
+#1 {main}
+  thrown in /home/mydesign/public_html/bookings/booking.php on line 140
+[04-Oct-2013 07:48:30 America/New_York] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/mydesign/public_html/bookings/booking.php on line 146
+[04-Oct-2013 07:49:43 America/New_York] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/mydesign/public_html/bookings/booking.php on line 146
+[04-Oct-2013 09:01:00 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/mydesign/public_html/bookings/booking.php on line 145

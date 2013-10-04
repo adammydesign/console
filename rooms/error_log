@@ -1,0 +1,13 @@
+[03-Oct-2013 11:41:21 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/mydesign/public_html/rooms/index.php on line 120
+[03-Oct-2013 11:56:27 America/New_York] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/mydesign/public_html/rooms/edit.php on line 121
+[03-Oct-2013 11:57:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mydesign/public_html/rooms/edit.php on line 121
+[03-Oct-2013 15:47:03 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mydesign/public_html/rooms/imageupload.php on line 59
+[03-Oct-2013 16:02:46 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/mydesign/public_html/rooms/edit_valid.php on line 15
+[03-Oct-2013 16:23:57 America/New_York] PHP Fatal error:  Call to undefined function stripslashe() in /home/mydesign/public_html/rooms/edit_valid.php on line 15
+[03-Oct-2013 16:46:20 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mydesign/public_html/rooms/index.php on line 223
+[03-Oct-2013 18:03:23 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/mydesign/public_html/rooms/index.php on line 170
+[03-Oct-2013 18:47:06 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mydesign/public_html/rooms/modifier_create.php on line 53
+[03-Oct-2013 18:52:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mydesign/public_html/rooms/modifier_create.php on line 83
+[03-Oct-2013 18:56:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mydesign/public_html/rooms/modifier_create.php on line 84
+[03-Oct-2013 18:57:18 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mydesign/public_html/rooms/modifier_create.php on line 84
+[04-Oct-2013 06:32:48 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/mydesign/public_html/rooms/index.php on line 411

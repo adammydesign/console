@@ -1,0 +1,4 @@
+[03-Oct-2013 20:18:17 America/New_York] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: event_ID not found in MySQL result index 3 in /home/mydesign/public_html/products/index.php on line 150
+[03-Oct-2013 20:18:17 America/New_York] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: event_name not found in MySQL result index 3 in /home/mydesign/public_html/products/index.php on line 151
+[03-Oct-2013 20:18:17 America/New_York] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: event_price not found in MySQL result index 3 in /home/mydesign/public_html/products/index.php on line 152
+[03-Oct-2013 20:18:17 America/New_York] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: event_image not found in MySQL result index 3 in /home/mydesign/public_html/products/index.php on line 153
